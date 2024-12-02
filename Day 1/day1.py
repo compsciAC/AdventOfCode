@@ -1,6 +1,6 @@
 
 def getLists():
-    inputFile = "/Users/ndac/AdventOfCodeFolder/AdventOfCode/Day 1/day1Input"
+    inputFile = "/day1Input"
     first_list = []
     second_list = []
 
